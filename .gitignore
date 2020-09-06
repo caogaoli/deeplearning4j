@@ -2,3 +2,4 @@ dl4j-tutorials.iml
 .idea/
 target/
 logs/
+model/
